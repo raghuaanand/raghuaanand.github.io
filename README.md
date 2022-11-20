@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Raghu Anand
-- 👀 I’m interested in doing everything that gives me happiness and satisfaction
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate with content creators
+- 👋 Hi, This is Raghu, a second year student majoring in Computer Science and Engineering
+- 👀 I'm interested and want to contribute in open source.
+- 🌱 I’m currently learning Frontend Development.
+- 
 
 
 <!---
