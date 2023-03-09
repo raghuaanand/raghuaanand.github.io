@@ -1,0 +1,36 @@
+/* import fonts from font.css file */
+@import url(./fonts.css);
+
+/* CSS Variables */
+@import url(./Partials/variable.css);
+
+/* start navigation */
+
+.header_area .main-menu .navbar .navbar-brand{
+    padding: 0 2rem 0 5rem;
+}
+.header_area .main-menu .navbar{
+    padding: 1rem 20rem;
+}
+.header_area .main-menu .nav-item .nav-link{
+    font: normal 500 15px/2px var(--roboto); /* font-style font-weigth font-size/line-heigth font-family*/
+    text-transform: uppercase;
+    padding: 1.4rem;
+    color: var(--title-color);
+}
+
+.header_area .main-menu .navbar-nav .active a{
+    background: var(--gradient-color);
+    /* to specify gardient color to the text we need to call  */
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.header_area .main-menu .navbar-nav a:hover{
+    background: var(--gradient-color);
+    /* to specify gardient color to the text we need to call  */
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+/* end navigation */
